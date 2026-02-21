@@ -3,7 +3,7 @@
   "description": "Золотой Феникс. Китайский сорт, символизирующий удачу и процветание.",
   "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/0.jpg",
   "edition": 1,
-  "date": 1771689105999,
+  "date": 1771689227999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -35,7 +35,7 @@
   "description": "Медовые мандарины. Имеют глубокий золотистый оттенок, мягкую кожу, содержат много натурального меда, удивительно сладкий вкус.",
   "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/1.jpg",
   "edition": 2,
-  "date": 1771689106999,
+  "date": 1771689228999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -67,7 +67,7 @@
   "description": "Моро. По внешнему виду напоминают кровавый апельсин, богатый красный пигмент в мякоти придает уникальные оттенки вкуса.",
   "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/2.jpg",
   "edition": 3,
-  "date": 1771689106999,
+  "date": 1771689228999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -99,7 +99,7 @@
   "description": "Шастейн. Помогают сохранять здоровье зубов и укрепляют иммунитет, рекомендуются врачами-диетологами.",
   "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/3.jpg",
   "edition": 4,
-  "date": 1771689107999,
+  "date": 1771689228999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -131,7 +131,7 @@
   "description": "Солано. Регулярно используемый в создании детского питания и натуральных продуктов.",
   "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/4.jpg",
   "edition": 5,
-  "date": 1771689107999,
+  "date": 1771689229999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -163,7 +163,7 @@
   "description": "Эйвон. Производятся преимущественно в Австралии, добавляют свежий штрих в выпечку и напитки.",
   "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/5.jpg",
   "edition": 6,
-  "date": 1771689107999,
+  "date": 1771689229999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -195,7 +195,7 @@
   "description": "Грандо де Гирасоль. Цветочный аромат, характерны сладкими качествами, подходят для консервирования и варенья.",
   "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/6.jpg",
   "edition": 7,
-  "date": 1771689108999,
+  "date": 1771689230999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -227,7 +227,7 @@
   "description": "Тринтаджио. Универсальность вида позволяет производить высококачественный сок, сухофрукты и масло.",
   "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/7.jpg",
   "edition": 8,
-  "date": 1771689108999,
+  "date": 1771689230999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -259,7 +259,7 @@
   "description": "Сигала. Стойкость к засухе позволяет выращивать их даже в сложных климатических зонах.",
   "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/8.jpg",
   "edition": 9,
-  "date": 1771689108999,
+  "date": 1771689230999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -291,7 +291,7 @@
   "description": "Мателона. Незаменимы в производстве косметической продукции, являются источником многих питательных элементов.",
   "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/9.jpg",
   "edition": 10,
-  "date": 1771689109999,
+  "date": 1771689231999,
   "attributes": [
     {
       "trait_type": "Rarity",
