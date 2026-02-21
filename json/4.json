@@ -1,9 +1,9 @@
 {
   "name": "$HMDR #5",
-  "description": "Epic Солано. Регулярно используемый в создании детского питания и натуральных продуктов.",
-  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part1/refs/heads/main/imgs/4.jpg",
+  "description": "Солано. Регулярно используемый в создании детского питания и натуральных продуктов.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/4.jpg",
   "edition": 5,
-  "date": 1771688956999,
+  "date": 1771689107999,
   "attributes": [
     {
       "trait_type": "Rarity",

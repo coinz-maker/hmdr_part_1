@@ -1,9 +1,9 @@
 {
   "name": "$HMDR #8",
-  "description": "Rare Тринтаджио. Универсальность вида позволяет производить высококачественный сок, сухофрукты и масло.",
-  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part1/refs/heads/main/imgs/7.jpg",
+  "description": "Тринтаджио. Универсальность вида позволяет производить высококачественный сок, сухофрукты и масло.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/7.jpg",
   "edition": 8,
-  "date": 1771688957999,
+  "date": 1771689108999,
   "attributes": [
     {
       "trait_type": "Rarity",

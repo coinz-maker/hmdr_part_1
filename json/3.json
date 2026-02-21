@@ -1,9 +1,9 @@
 {
   "name": "$HMDR #4",
-  "description": "Epic Шастейн. Помогают сохранять здоровье зубов и укрепляют иммунитет, рекомендуются врачами-диетологами.",
-  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part1/refs/heads/main/imgs/3.jpg",
+  "description": "Шастейн. Помогают сохранять здоровье зубов и укрепляют иммунитет, рекомендуются врачами-диетологами.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/3.jpg",
   "edition": 4,
-  "date": 1771688956999,
+  "date": 1771689107999,
   "attributes": [
     {
       "trait_type": "Rarity",

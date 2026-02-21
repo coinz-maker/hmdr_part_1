@@ -1,9 +1,9 @@
 {
   "name": "$HMDR #1",
-  "description": "Legendary Золотой Феникс. Китайский сорт, символизирующий удачу и процветание.",
-  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part1/refs/heads/main/imgs/0.jpg",
+  "description": "Золотой Феникс. Китайский сорт, символизирующий удачу и процветание.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/0.jpg",
   "edition": 1,
-  "date": 1771688955999,
+  "date": 1771689105999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -32,10 +32,10 @@
 },
 {
   "name": "$HMDR #2",
-  "description": "Legendary Медовые мандарины. Имеют глубокий золотистый оттенок, мягкую кожу, содержат много натурального меда, удивительно сладкий вкус.",
-  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part1/refs/heads/main/imgs/1.jpg",
+  "description": "Медовые мандарины. Имеют глубокий золотистый оттенок, мягкую кожу, содержат много натурального меда, удивительно сладкий вкус.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/1.jpg",
   "edition": 2,
-  "date": 1771688955999,
+  "date": 1771689106999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -64,10 +64,10 @@
 },
 {
   "name": "$HMDR #3",
-  "description": "Epic Моро. По внешнему виду напоминают кровавый апельсин, богатый красный пигмент в мякоти придает уникальные оттенки вкуса.",
-  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part1/refs/heads/main/imgs/2.jpg",
+  "description": "Моро. По внешнему виду напоминают кровавый апельсин, богатый красный пигмент в мякоти придает уникальные оттенки вкуса.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/2.jpg",
   "edition": 3,
-  "date": 1771688956999,
+  "date": 1771689106999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -96,10 +96,10 @@
 },
 {
   "name": "$HMDR #4",
-  "description": "Epic Шастейн. Помогают сохранять здоровье зубов и укрепляют иммунитет, рекомендуются врачами-диетологами.",
-  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part1/refs/heads/main/imgs/3.jpg",
+  "description": "Шастейн. Помогают сохранять здоровье зубов и укрепляют иммунитет, рекомендуются врачами-диетологами.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/3.jpg",
   "edition": 4,
-  "date": 1771688956999,
+  "date": 1771689107999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -128,10 +128,10 @@
 },
 {
   "name": "$HMDR #5",
-  "description": "Epic Солано. Регулярно используемый в создании детского питания и натуральных продуктов.",
-  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part1/refs/heads/main/imgs/4.jpg",
+  "description": "Солано. Регулярно используемый в создании детского питания и натуральных продуктов.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/4.jpg",
   "edition": 5,
-  "date": 1771688956999,
+  "date": 1771689107999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -160,10 +160,10 @@
 },
 {
   "name": "$HMDR #6",
-  "description": "Epic Эйвон. Производятся преимущественно в Австралии, добавляют свежий штрих в выпечку и напитки.",
-  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part1/refs/heads/main/imgs/5.jpg",
+  "description": "Эйвон. Производятся преимущественно в Австралии, добавляют свежий штрих в выпечку и напитки.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/5.jpg",
   "edition": 6,
-  "date": 1771688957999,
+  "date": 1771689107999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -192,10 +192,10 @@
 },
 {
   "name": "$HMDR #7",
-  "description": "Epic Грандо де Гирасоль. Цветочный аромат, характерны сладкими качествами, подходят для консервирования и варенья.",
-  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part1/refs/heads/main/imgs/6.jpg",
+  "description": "Грандо де Гирасоль. Цветочный аромат, характерны сладкими качествами, подходят для консервирования и варенья.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/6.jpg",
   "edition": 7,
-  "date": 1771688957999,
+  "date": 1771689108999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -224,10 +224,10 @@
 },
 {
   "name": "$HMDR #8",
-  "description": "Rare Тринтаджио. Универсальность вида позволяет производить высококачественный сок, сухофрукты и масло.",
-  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part1/refs/heads/main/imgs/7.jpg",
+  "description": "Тринтаджио. Универсальность вида позволяет производить высококачественный сок, сухофрукты и масло.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/7.jpg",
   "edition": 8,
-  "date": 1771688957999,
+  "date": 1771689108999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -256,10 +256,10 @@
 },
 {
   "name": "$HMDR #9",
-  "description": "Rare Сигала. Стойкость к засухе позволяет выращивать их даже в сложных климатических зонах.",
-  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part1/refs/heads/main/imgs/8.jpg",
+  "description": "Сигала. Стойкость к засухе позволяет выращивать их даже в сложных климатических зонах.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/8.jpg",
   "edition": 9,
-  "date": 1771688958999,
+  "date": 1771689108999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -288,10 +288,10 @@
 },
 {
   "name": "$HMDR #10",
-  "description": "Rare Мателона. Незаменимы в производстве косметической продукции, являются источником многих питательных элементов.",
-  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part1/refs/heads/main/imgs/9.jpg",
+  "description": "Мателона. Незаменимы в производстве косметической продукции, являются источником многих питательных элементов.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/9.jpg",
   "edition": 10,
-  "date": 1771688958999,
+  "date": 1771689109999,
   "attributes": [
     {
       "trait_type": "Rarity",

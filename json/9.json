@@ -1,9 +1,9 @@
 {
   "name": "$HMDR #10",
-  "description": "Rare Мателона. Незаменимы в производстве косметической продукции, являются источником многих питательных элементов.",
-  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part1/refs/heads/main/imgs/9.jpg",
+  "description": "Мателона. Незаменимы в производстве косметической продукции, являются источником многих питательных элементов.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/9.jpg",
   "edition": 10,
-  "date": 1771688958999,
+  "date": 1771689109999,
   "attributes": [
     {
       "trait_type": "Rarity",

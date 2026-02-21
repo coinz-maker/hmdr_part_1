@@ -1,9 +1,9 @@
 {
   "name": "$HMDR #1",
-  "description": "Legendary Золотой Феникс. Китайский сорт, символизирующий удачу и процветание.",
-  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part1/refs/heads/main/imgs/0.jpg",
+  "description": "Золотой Феникс. Китайский сорт, символизирующий удачу и процветание.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/0.jpg",
   "edition": 1,
-  "date": 1771688955999,
+  "date": 1771689105999,
   "attributes": [
     {
       "trait_type": "Rarity",
