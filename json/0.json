@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #1",
+  "description": "Legendary Золотой Феникс. Китайский сорт, символизирующий удачу и процветание.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part1/refs/heads/main/imgs/0.jpg",
+  "edition": 1,
+  "date": 1771688955999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "8%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Золотой Феникс"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Golden Phoenix"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}
