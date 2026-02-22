@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #65",
+  "description": "Сулаваеси. Происходят из Индонезии, встречается редко, пользуются спросом среди любителей редких фруктов.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/64.jpg",
+  "edition": 65,
+  "date": 1771742642999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Сулаваеси"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Sulawesi"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

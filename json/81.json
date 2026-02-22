@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #82",
+  "description": "Форелла. Темно-оранжевый оттенок, мелкие семена, высокий уровень сока.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/81.jpg",
+  "edition": 82,
+  "date": 1771742650999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Форелла"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Fornello"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

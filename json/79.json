@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #80",
+  "description": "Яманаси. Мелкие, компактные плоды темно-оранжевого цвета, отличные кислотно-сладкие нотки.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/79.jpg",
+  "edition": 80,
+  "date": 1771742649999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Яманаси"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Yamanashi"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

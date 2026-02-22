@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #45",
+  "description": "Агрипико. Итальянского происхождения, привлекает внимание привлекательной формой и цветом, стабильно востребован на рынке.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/44.jpg",
+  "edition": 45,
+  "date": 1771742633999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Агрипико"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Agripico"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #39",
+  "description": "Сибиряк. Северный брат южного родственника, выдерживает сильные морозы и даёт хорошие урожаи в суровом климате.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/38.jpg",
+  "edition": 39,
+  "date": 1771742630999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Сибиряк"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Siberian"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

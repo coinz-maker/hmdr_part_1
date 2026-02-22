@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #20",
+  "description": "Лазурный Берег. Французский сорт, символизирует побережье Лазурного моря, изысканный вкус и аромат морского бриза.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/19.jpg",
+  "edition": 20,
+  "date": 1771742622999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "1,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Лазурный Берег"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Azure Coast"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

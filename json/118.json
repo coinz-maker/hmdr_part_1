@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #119",
+  "description": "Хассаку. Крупноплодный японский мандарин с толстой кожурой и нежной мякотью, сладкий с легким мускусным привкусом.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/118.jpg",
+  "edition": 119,
+  "date": 1771742666999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Хассаку"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Hassaku"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

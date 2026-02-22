@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #131",
+  "description": "Ред Лав Оранж. Современный американский гибрид, ярко-красные снаружи и внутри, необычно красивый внешний вид и приятный кисло-сладкий вкус.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/130.jpg",
+  "edition": 131,
+  "date": 1771742671999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Ред Лав Оранж"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Red Love Orange"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

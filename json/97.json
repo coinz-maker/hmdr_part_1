@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #98",
+  "description": "Коэнши. Сочные, миниатюрные японские мандарины, обладающие плотной мякотью и необычным кислым вкусом.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/97.jpg",
+  "edition": 98,
+  "date": 1771742657999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Коэнши"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Kohenshi"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

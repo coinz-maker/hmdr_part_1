@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #137",
+  "description": "Каттанио. Италия, регион Абруццо, маленькая, но крайне ароматная разновидность с богатым вкусом и низким уровнем кислотности.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/136.jpg",
+  "edition": 137,
+  "date": 1771742673999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Каттанио"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Catteneo"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

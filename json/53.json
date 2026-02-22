@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #54",
+  "description": "Аль-Кабас. Иранский мандаринец, популяризированный традициями персидской кухни, с ярким кисловатым вкусом.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/53.jpg",
+  "edition": 54,
+  "date": 1771742637999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Аль-Кабас"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Al-Kabas"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

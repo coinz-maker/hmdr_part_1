@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #43",
+  "description": "Татарстан. Уникальное достижение российского сельского хозяйства, быстро набирает популярность среди россиян.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/42.jpg",
+  "edition": 43,
+  "date": 1771742632999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Татарстан"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Tatarstan"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

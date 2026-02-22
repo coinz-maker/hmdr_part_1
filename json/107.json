@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #108",
+  "description": "Алейгри. Имеют уникальный аромат, обладают высокими показателями витаминов B и C, распространены в северной Франции.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/107.jpg",
+  "edition": 108,
+  "date": 1771742661999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Алейгри"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Alegri"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

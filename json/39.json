@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #40",
+  "description": "Черноморский. Сорт, рожденный близ берегов Чёрного моря, вдохновлён пейзажами побережья и красотой природы.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/39.jpg",
+  "edition": 40,
+  "date": 1771742631999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Черноморский"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Black Sea"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

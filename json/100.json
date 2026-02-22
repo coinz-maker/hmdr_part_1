@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #101",
+  "description": "Тамаки. Один из элитных японских сортов, очень ароматные, мясистые и сахарные, подходят для премиальных рынков.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/100.jpg",
+  "edition": 101,
+  "date": 1771742658999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Тамаки"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Tamaki"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

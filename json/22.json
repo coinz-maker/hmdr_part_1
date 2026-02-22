@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #23",
+  "description": "Космос. Проект по созданию идеальной орбитальной пищи, зародился в рамках программы космической еды NASA.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/22.jpg",
+  "edition": 23,
+  "date": 1771742623999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "1,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Космос"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Cosmos"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

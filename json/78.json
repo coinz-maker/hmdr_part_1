@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #79",
+  "description": "Кимукатсу. Компактные, яркие плоды с легкой терпкостью и приятной сладостью.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/78.jpg",
+  "edition": 79,
+  "date": 1771742649999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Кимукатсу"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Kimukatsu"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

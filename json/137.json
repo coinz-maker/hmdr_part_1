@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #138",
+  "description": "Хайва. Египетский традиционный сорт, уникальный горьковато-сладкий вкус, маленькие зерна, низкая калорийность.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/137.jpg",
+  "edition": 138,
+  "date": 1771742674999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Хайва"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Haywa"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

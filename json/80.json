@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #81",
+  "description": "Фрумоаса Алба. Светлые плоды с выраженным ароматом и мягким вкусом.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/80.jpg",
+  "edition": 81,
+  "date": 1771742649999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Фрумоаса Алба"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Frumoasa Albă"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

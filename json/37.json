@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #38",
+  "description": "Волшебный Свет. Английский королевский сад представил миру уникальное творение, вдохновленное старинными легендами.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/37.jpg",
+  "edition": 38,
+  "date": 1771742630999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Волшебный Свет"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Magic Light"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

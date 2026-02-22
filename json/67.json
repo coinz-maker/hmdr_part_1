@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #68",
+  "description": "Изобель. Результат международного сотрудничества европейских и американских ученых, демонстрирует лучшее из обоих миров.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/67.jpg",
+  "edition": 68,
+  "date": 1771742644999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Изобель"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Isobel"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

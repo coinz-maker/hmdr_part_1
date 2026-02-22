@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #34",
+  "description": "Красноглазый. Представляет редкий вид китайских мандаринов, небольшая кисточка на конце придаёт оригинальный шарм, тёмно-красная сердцевина подчёркивает эксклюзивность.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/33.jpg",
+  "edition": 34,
+  "date": 1771742628999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Красноглазый"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Red-Eyed"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

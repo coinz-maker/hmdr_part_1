@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #125",
+  "description": "Манго-Мандарине. Экспериментальная линия селекции, сочетает характеристики манго и мандарина, уникальные экзотические вкусы.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/124.jpg",
+  "edition": 125,
+  "date": 1771742669999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Манго-Мандарине"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Mango-Mandarin Hybrid"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

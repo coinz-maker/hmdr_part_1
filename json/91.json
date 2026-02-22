@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #92",
+  "description": "Джулиус. Относительно крупный размер, сильная ароматичность, приятное послевкусие.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/91.jpg",
+  "edition": 92,
+  "date": 1771742654999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Джулиус"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Julius"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

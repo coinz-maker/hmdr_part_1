@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #72",
+  "description": "Танжерин. Плоды среднего размера, с тонкой кожурой оранжево-красного оттенка, кисловато-сладкий вкус.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/71.jpg",
+  "edition": 72,
+  "date": 1771742645999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Танжерин"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Tangerine"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

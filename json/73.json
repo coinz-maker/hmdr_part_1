@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #74",
+  "description": "Окан. Крупные плоды насыщенного оранжевого цвета, ароматные, умеренно сладкий вкус.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/73.jpg",
+  "edition": 74,
+  "date": 1771742646999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Окан"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Okan"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

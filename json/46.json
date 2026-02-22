@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #47",
+  "description": "Загадка Запада. Таинственное наследие Дикого Запада Америки, создаётся и развивается энтузиастами садоводов.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/46.jpg",
+  "edition": 47,
+  "date": 1771742634999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Загадка Запада"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Western Mystery"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #50",
+  "description": "Негро. Происхождение восходит к итальянским провинциям, знаменит тем, что показывает неповторимый контраст цветов, фиолетово-чёрные тона привлекают покупателей.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/49.jpg",
+  "edition": 50,
+  "date": 1771742635999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Негро"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Negro"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

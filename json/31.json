@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #32",
+  "description": "Змеиная чешуя. Немецкий экспериментальный образец, покоривший сердца исследователей своим необычным рисунком.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/31.jpg",
+  "edition": 32,
+  "date": 1771742628999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Змеиная чешуя"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Snake Scale"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

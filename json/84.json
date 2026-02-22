@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #85",
+  "description": "Роугредин. Ярко-оранжевые плоды, тонкий слой цедры, слегка кислый вкус.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/84.jpg",
+  "edition": 85,
+  "date": 1771742651999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Роугредин"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Rougredin"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

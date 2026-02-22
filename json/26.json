@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #27",
+  "description": "Кубака. Местечковый кубинский сорт, пользуется популярностью на местных рынках Гаваны и окрестностей.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/26.jpg",
+  "edition": 27,
+  "date": 1771742625999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Кубака"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Cubaca"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

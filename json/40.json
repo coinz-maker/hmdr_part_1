@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #41",
+  "description": "Лимонила. Свежесть лимона сочетается с сочностью мандарина, замечательный выбор для тех, кто любит экспериментировать.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/40.jpg",
+  "edition": 41,
+  "date": 1771742631999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Лимонила"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Limonila"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

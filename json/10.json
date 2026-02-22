@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #11",
+  "description": "Дон Чино. Назван в честь испанского селекционера, знаменует устойчивость к суровым климатическим условиям",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/10.jpg",
+  "edition": 11,
+  "date": 1771742618999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "1,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Дон Чино"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Don Chino"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

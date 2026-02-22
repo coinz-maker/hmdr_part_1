@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #84",
+  "description": "Шэдлок. Слегка удлиненные плоды, золотисто-оранжевые, умеренной сладости.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/83.jpg",
+  "edition": 84,
+  "date": 1771742651999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Шэдлок"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Shadlock"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #44",
+  "description": "Краснодарский. Южнороссийский сорт, распространённый в тёплых краях Краснодарского края, поражает разнообразием и сочностью.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/43.jpg",
+  "edition": 44,
+  "date": 1771742632999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Краснодарский"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Krasnodar"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

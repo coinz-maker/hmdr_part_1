@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #107",
+  "description": "Баладор. Традиционный французский сорт, характеризуется высоким содержанием натуральных сахаров, низкокалорийный.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/106.jpg",
+  "edition": 107,
+  "date": 1771742661999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Баладор"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Balador"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

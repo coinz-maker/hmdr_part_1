@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #87",
+  "description": "Салюс. Высокое содержание витаминов, тонкие стенки долек, мягкая структура мякоти.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/86.jpg",
+  "edition": 87,
+  "date": 1771742652999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Салюс"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Salus"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

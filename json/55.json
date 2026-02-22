@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #56",
+  "description": "Голден Куин. Индийская культура производит одни из лучших сортов, знаменитый сладкий вкус и уникальная маслянистая текстура.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/55.jpg",
+  "edition": 56,
+  "date": 1771742638999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Голден Куин"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Golden Queen"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

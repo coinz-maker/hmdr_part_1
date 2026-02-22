@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #58",
+  "description": "Конкорде. Тайландский чемпион, отмеченный большим объёмом плодов, одновременно сочные и спелые.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/57.jpg",
+  "edition": 58,
+  "date": 1771742639999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Конкорде"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Concorde"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

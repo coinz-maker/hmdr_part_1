@@ -3,7 +3,7 @@
   "description": "Золотой Феникс. Китайский сорт, символизирующий удачу и процветание.",
   "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/0.jpg",
   "edition": 1,
-  "date": 1771733633999,
+  "date": 1771742614999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -35,7 +35,7 @@
   "description": "Медовые мандарины. Имеют глубокий золотистый оттенок, мягкую кожу, содержат много натурального меда, удивительно сладкий вкус.",
   "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/1.jpg",
   "edition": 2,
-  "date": 1771733633999,
+  "date": 1771742615999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -67,7 +67,7 @@
   "description": "Моро. По внешнему виду напоминают кровавый апельсин, богатый красный пигмент в мякоти придает уникальные оттенки вкуса.",
   "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/2.jpg",
   "edition": 3,
-  "date": 1771733633999,
+  "date": 1771742615999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -99,7 +99,7 @@
   "description": "Шастейн. Помогают сохранять здоровье зубов и укрепляют иммунитет, рекомендуются врачами-диетологами.",
   "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/3.jpg",
   "edition": 4,
-  "date": 1771733634999,
+  "date": 1771742616999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -131,7 +131,7 @@
   "description": "Солано. Регулярно используемый в создании детского питания и натуральных продуктов.",
   "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/4.jpg",
   "edition": 5,
-  "date": 1771733634999,
+  "date": 1771742616999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -163,7 +163,7 @@
   "description": "Эйвон. Производятся преимущественно в Австралии, добавляют свежий штрих в выпечку и напитки.",
   "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/5.jpg",
   "edition": 6,
-  "date": 1771733635999,
+  "date": 1771742616999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -195,7 +195,7 @@
   "description": "Грандо де Гирасоль. Цветочный аромат, характерны сладкими качествами, подходят для консервирования и варенья.",
   "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/6.jpg",
   "edition": 7,
-  "date": 1771733635999,
+  "date": 1771742617999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -227,7 +227,7 @@
   "description": "Тринтаджио. Универсальность вида позволяет производить высококачественный сок, сухофрукты и масло.",
   "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/7.jpg",
   "edition": 8,
-  "date": 1771733636999,
+  "date": 1771742617999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -259,7 +259,7 @@
   "description": "Сигала. Стойкость к засухе позволяет выращивать их даже в сложных климатических зонах.",
   "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/8.jpg",
   "edition": 9,
-  "date": 1771733636999,
+  "date": 1771742618999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -291,7 +291,7 @@
   "description": "Мателона. Незаменимы в производстве косметической продукции, являются источником многих питательных элементов.",
   "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/9.jpg",
   "edition": 10,
-  "date": 1771733636999,
+  "date": 1771742618999,
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -308,6 +308,4134 @@
     {
       "trait_type": "name_en",
       "value": "Matelona"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #11",
+  "description": "Дон Чино. Назван в честь испанского селекционера, знаменует устойчивость к суровым климатическим условиям",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/10.jpg",
+  "edition": 11,
+  "date": 1771742618999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "1,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Дон Чино"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Don Chino"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #12",
+  "description": "Каору. Быстро созревают, потрясающе свежие ароматы, используются в японской кухне и напитках.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/11.jpg",
+  "edition": 12,
+  "date": 1771742619999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "1,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Каору"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Kaoru"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #13",
+  "description": "Бали. Мелкие экземпляры, приятная легкая консистенция, универсальны в применении.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/12.jpg",
+  "edition": 13,
+  "date": 1771742619999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "1,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Бали"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Bali"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #14",
+  "description": "Семицветный Лотос. Эксклюзивный тайский сорт, завораживает глаз яркой расцветкой, напоминает лотосы.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/13.jpg",
+  "edition": 14,
+  "date": 1771742620999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "1,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Семицветный Лотос"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Seven-Colored Lotus"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #15",
+  "description": "Виноградный Красный. Смесь винограда и мандарина, выведенная в Китае, отличает интересный виноградовидный вкус.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/14.jpg",
+  "edition": 15,
+  "date": 1771742620999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "1,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Виноградный Красный"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Grape Red"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #16",
+  "description": "Лавандовый Цвет. Легкий лавандовый оттенок кожуры и особая лёгкость во вкусе, создавались специально для туристов.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/15.jpg",
+  "edition": 16,
+  "date": 1771742621999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "1,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Лавандовый Цвет"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Lavender Hue"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #17",
+  "description": "Нефритовый Самородок. Формально считается китайской находкой, выделяет зелёные полутона, характерные для нефрита.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/16.jpg",
+  "edition": 17,
+  "date": 1771742621999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "1,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Нефритовый Самородок"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Jade Nugget"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #18",
+  "description": "Святая Тереза. Традиционная порода Португалии, полюбившаяся местным жителям и туристам, раскрывающая лучшие стороны старого континента.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/17.jpg",
+  "edition": 18,
+  "date": 1771742621999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "1,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Святая Тереза"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Santa Teresa"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #19",
+  "description": "Вендетти. Испанская разновидность, была популярна в эпоху Ренессанса, ныне стала символом культурного наследия.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/18.jpg",
+  "edition": 19,
+  "date": 1771742622999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "1,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Вендетти"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Vendetti"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #20",
+  "description": "Лазурный Берег. Французский сорт, символизирует побережье Лазурного моря, изысканный вкус и аромат морского бриза.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/19.jpg",
+  "edition": 20,
+  "date": 1771742622999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "1,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Лазурный Берег"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Azure Coast"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #21",
+  "description": "Розалина. Самобытный итальянский сорт, украшенный цветами розового оттенка, служит визитной карточкой итальянской культуры.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/20.jpg",
+  "edition": 21,
+  "date": 1771742623999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "1,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Розалина"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Rosalina"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #22",
+  "description": "Атлас. Истинный наследник древних традиций Ближнего Востока, родословная уходит корнями в античные времена.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/21.jpg",
+  "edition": 22,
+  "date": 1771742623999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "1,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Атлас"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Atlas"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #23",
+  "description": "Космос. Проект по созданию идеальной орбитальной пищи, зародился в рамках программы космической еды NASA.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/22.jpg",
+  "edition": 23,
+  "date": 1771742623999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "1,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Космос"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Cosmos"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #24",
+  "description": "Танзан. Африканский фрукт, произрастающий в саваннах Танзании, увлекателен своими мелкими размерами и интенсивным вкусом.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/23.jpg",
+  "edition": 24,
+  "date": 1771742624999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "1,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Танзан"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Tanzen"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #25",
+  "description": "Магараджи. Генетическая смесь бразильского и африканского корней, стал настоящим открытием современной эпохи.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/24.jpg",
+  "edition": 25,
+  "date": 1771742624999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "1,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Магараджи"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Maharajah"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #26",
+  "description": "Хай-Бери. Горный эквадорский сорт, лучший выбор для горных районов Эквадора, постепенно завоевывающий мир.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/25.jpg",
+  "edition": 26,
+  "date": 1771742625999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Хай-Бери"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "High Berry"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #27",
+  "description": "Кубака. Местечковый кубинский сорт, пользуется популярностью на местных рынках Гаваны и окрестностей.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/26.jpg",
+  "edition": 27,
+  "date": 1771742625999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Кубака"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Cubaca"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #28",
+  "description": "Артикул. Международный проект по созданию совершенного фрукта, соединяющий ДНК различных типов цитрусовых.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/27.jpg",
+  "edition": 28,
+  "date": 1771742626999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Артикул"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Articulus"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #29",
+  "description": "Апертур. Экспериментальный голландский гибрид, недавно введён в производство, радует глаз оригинальной упаковкой.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/28.jpg",
+  "edition": 29,
+  "date": 1771742626999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Апертур"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Apertur"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #30",
+  "description": "Температус. Канадский сорт, способный выдерживать экстремальные температуры, открывающий новые возможности для выращивания.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/29.jpg",
+  "edition": 30,
+  "date": 1771742627999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Температус"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Temperatus"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #31",
+  "description": "Патагония. Аргентинский аналог, любимый обитателями южных регионов, впитавший энергию Анд и ветров Патагонии.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/30.jpg",
+  "edition": 31,
+  "date": 1771742627999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Патагония"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Patagonia"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #32",
+  "description": "Змеиная чешуя. Немецкий экспериментальный образец, покоривший сердца исследователей своим необычным рисунком.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/31.jpg",
+  "edition": 32,
+  "date": 1771742628999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Змеиная чешуя"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Snake Scale"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #33",
+  "description": "Солнечная нить. Единственный сохранившийся сорт XIX века, приносит радость и вдохновение садоводам Англии.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/32.jpg",
+  "edition": 33,
+  "date": 1771742628999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Солнечная нить"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Solar Thread"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #34",
+  "description": "Красноглазый. Представляет редкий вид китайских мандаринов, небольшая кисточка на конце придаёт оригинальный шарм, тёмно-красная сердцевина подчёркивает эксклюзивность.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/33.jpg",
+  "edition": 34,
+  "date": 1771742628999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Красноглазый"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Red-Eyed"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #35",
+  "description": "Жемчужный. Известен мелкими плодами, шелковистой кожицей, деликатным ароматом и прекрасным балансом сладости и кислоты.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/34.jpg",
+  "edition": 35,
+  "date": 1771742629999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Жемчужный"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Pearl"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #36",
+  "description": "Король Азии. Крупноплодный сорт китайского происхождения, изумительной окраски, яркого вкуса и чрезвычайно популярен на азиатских рынках.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/35.jpg",
+  "edition": 36,
+  "date": 1771742629999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Король Азии"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Asia King"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #37",
+  "description": "Маленький дракончик. Китайский символизм проявляется в форме маленьких дракона головок, исключительно вкусно и полезно для иммунитета.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/36.jpg",
+  "edition": 37,
+  "date": 1771742630999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Маленький дракончик"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Little Dragon"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #38",
+  "description": "Волшебный Свет. Английский королевский сад представил миру уникальное творение, вдохновленное старинными легендами.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/37.jpg",
+  "edition": 38,
+  "date": 1771742630999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Волшебный Свет"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Magic Light"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #39",
+  "description": "Сибиряк. Северный брат южного родственника, выдерживает сильные морозы и даёт хорошие урожаи в суровом климате.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/38.jpg",
+  "edition": 39,
+  "date": 1771742630999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Сибиряк"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Siberian"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #40",
+  "description": "Черноморский. Сорт, рожденный близ берегов Чёрного моря, вдохновлён пейзажами побережья и красотой природы.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/39.jpg",
+  "edition": 40,
+  "date": 1771742631999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Черноморский"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Black Sea"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #41",
+  "description": "Лимонила. Свежесть лимона сочетается с сочностью мандарина, замечательный выбор для тех, кто любит экспериментировать.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/40.jpg",
+  "edition": 41,
+  "date": 1771742631999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Лимонила"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Limonila"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #42",
+  "description": "Алтайский. Российский сорт, растущий в гористых районах Сибири, славится стойкостью к холоду и морозостойкостью.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/41.jpg",
+  "edition": 42,
+  "date": 1771742632999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Алтайский"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Altay"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #43",
+  "description": "Татарстан. Уникальное достижение российского сельского хозяйства, быстро набирает популярность среди россиян.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/42.jpg",
+  "edition": 43,
+  "date": 1771742632999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Татарстан"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Tatarstan"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #44",
+  "description": "Краснодарский. Южнороссийский сорт, распространённый в тёплых краях Краснодарского края, поражает разнообразием и сочностью.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/43.jpg",
+  "edition": 44,
+  "date": 1771742632999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Краснодарский"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Krasnodar"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #45",
+  "description": "Агрипико. Итальянского происхождения, привлекает внимание привлекательной формой и цветом, стабильно востребован на рынке.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/44.jpg",
+  "edition": 45,
+  "date": 1771742633999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Агрипико"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Agripico"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #46",
+  "description": "Бассото. Испания гордится этим сортом, характеризующимся высокой сладостью и нежностью мякоти.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/45.jpg",
+  "edition": 46,
+  "date": 1771742633999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Бассото"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Bassoto"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #47",
+  "description": "Загадка Запада. Таинственное наследие Дикого Запада Америки, создаётся и развивается энтузиастами садоводов.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/46.jpg",
+  "edition": 47,
+  "date": 1771742634999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Загадка Запада"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Western Mystery"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #48",
+  "description": "Атлант. Португальский средневековый сорт, возникший ещё до открытия Нового света, сохранился до наших дней.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/47.jpg",
+  "edition": 48,
+  "date": 1771742634999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Атлант"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Atlant"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #49",
+  "description": "Императорский. Название отражает историческое происхождение, отличительные черты включают прекрасный вкус и аромат, идеально подходящий для праздников.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/48.jpg",
+  "edition": 49,
+  "date": 1771742635999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Императорский"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Imperial"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #50",
+  "description": "Негро. Происхождение восходит к итальянским провинциям, знаменит тем, что показывает неповторимый контраст цветов, фиолетово-чёрные тона привлекают покупателей.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/49.jpg",
+  "edition": 50,
+  "date": 1771742635999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Негро"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Negro"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #51",
+  "description": "Итало. Самый итальянский мандарин, невероятно полезный и ароматный, растёт на юге Италии, любим туристами.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/50.jpg",
+  "edition": 51,
+  "date": 1771742635999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Итало"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Italo"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #52",
+  "description": "Эль-Голи. Египетский экземпляр, выделяется оригинальностью форм и глубокой сладостью, поставляется на мировые рынки.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/51.jpg",
+  "edition": 52,
+  "date": 1771742636999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Эль-Голи"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "El-Goli"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #53",
+  "description": "Шамси. Алжирский сорт, выросший в пустыне, признанный богатым минералами и витаминами.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/52.jpg",
+  "edition": 53,
+  "date": 1771742636999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Шамси"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Shamsy"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #54",
+  "description": "Аль-Кабас. Иранский мандаринец, популяризированный традициями персидской кухни, с ярким кисловатым вкусом.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/53.jpg",
+  "edition": 54,
+  "date": 1771742637999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Аль-Кабас"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Al-Kabas"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #55",
+  "description": "Калима. Марокканский фаворит, знакомый европейцам своим очаровательным размером и удивительным качеством созревания.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/54.jpg",
+  "edition": 55,
+  "date": 1771742637999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Калима"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Kalima"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #56",
+  "description": "Голден Куин. Индийская культура производит одни из лучших сортов, знаменитый сладкий вкус и уникальная маслянистая текстура.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/55.jpg",
+  "edition": 56,
+  "date": 1771742638999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Голден Куин"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Golden Queen"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #57",
+  "description": "Тайгер Боун. Бирманский феномен, покрыт маленькими коричневыми полосочками, выглядит впечатляюще и маняще.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/56.jpg",
+  "edition": 57,
+  "date": 1771742638999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Тайгер Боун"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Tiger Bone"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #58",
+  "description": "Конкорде. Тайландский чемпион, отмеченный большим объёмом плодов, одновременно сочные и спелые.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/57.jpg",
+  "edition": 58,
+  "date": 1771742639999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Конкорде"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Concorde"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #59",
+  "description": "Индра. Неповторимая композиция вкусов, именно этот сорт предпочитает население Индии.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/58.jpg",
+  "edition": 59,
+  "date": 1771742639999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Индра"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Indra"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #60",
+  "description": "Манго Бланш. Фрукт имеет уникальные тропические оттенки, сочетает в себе черты мандарина и манго.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/59.jpg",
+  "edition": 60,
+  "date": 1771742640999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Манго Бланш"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Mango Blanche"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #61",
+  "description": "Боливианито. Боливийский стандарт, легко доступен и недорог, предпочитаем местными жителями.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/60.jpg",
+  "edition": 61,
+  "date": 1771742640999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Боливианито"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Bolivianito"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #62",
+  "description": "Каталин. Кубинский бренд, демонстрирующий яркие солнечные оттенки и привлекательные ароматы.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/61.jpg",
+  "edition": 62,
+  "date": 1771742641999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Каталин"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Catalin"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #63",
+  "description": "Парамарбо. Карибский сорт, сочетающий качество и красоту, отличается повышенной сочностью и лёгкой текстурой.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/62.jpg",
+  "edition": 63,
+  "date": 1771742641999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Парамарбо"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Paramarbo"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #64",
+  "description": "Панамец. Панаманский сорт, производится на небольших фермах, продается как сувенирный товар.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/63.jpg",
+  "edition": 64,
+  "date": 1771742642999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Панамец"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Panamez"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #65",
+  "description": "Сулаваеси. Происходят из Индонезии, встречается редко, пользуются спросом среди любителей редких фруктов.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/64.jpg",
+  "edition": 65,
+  "date": 1771742642999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Сулаваеси"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Sulawesi"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #66",
+  "description": "Кабутачи. Современный гибрид японского и европейского сортов, получил мировое признание благодаря качеству.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/65.jpg",
+  "edition": 66,
+  "date": 1771742643999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Кабутачи"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Kabutachi"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #67",
+  "description": "Сумбионе. Комбинация классического танжерина и современного микса сортов, уверенно занимает своё место на мировых ярмарках.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/66.jpg",
+  "edition": 67,
+  "date": 1771742643999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Сумбионе"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Sumbione"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #68",
+  "description": "Изобель. Результат международного сотрудничества европейских и американских ученых, демонстрирует лучшее из обоих миров.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/67.jpg",
+  "edition": 68,
+  "date": 1771742644999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Изобель"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Isobel"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #69",
+  "description": "Отопира. Новинка на рынке, отличается особой белоснежностью и резким, притягивающим ароматом.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/68.jpg",
+  "edition": 69,
+  "date": 1771742644999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Отопира"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Otopyra"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #70",
+  "description": "Руссета. Новый американский сорт, созданный специально для нужд фермеров и производителей соков.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/69.jpg",
+  "edition": 70,
+  "date": 1771742645999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Руссета"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Russetta"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #71",
+  "description": "Клементин. Маленькие плоды ярко-оранжевого цвета, сладкого вкуса, почти без косточек, легко очищаются.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/70.jpg",
+  "edition": 71,
+  "date": 1771742645999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Клементин"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Clementine"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #72",
+  "description": "Танжерин. Плоды среднего размера, с тонкой кожурой оранжево-красного оттенка, кисловато-сладкий вкус.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/71.jpg",
+  "edition": 72,
+  "date": 1771742645999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Танжерин"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Tangerine"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #73",
+  "description": "Сатсум. Очень сладкие, небольшие мандарины, практически без семян, идеально подходят для детей.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/72.jpg",
+  "edition": 73,
+  "date": 1771742646999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Сатсум"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Satsuma"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #74",
+  "description": "Окан. Крупные плоды насыщенного оранжевого цвета, ароматные, умеренно сладкий вкус.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/73.jpg",
+  "edition": 74,
+  "date": 1771742646999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Окан"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Okan"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #75",
+  "description": "Уиллоуби. Среднего размера, плотная кожура, высокая сочность и яркий вкус.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/74.jpg",
+  "edition": 75,
+  "date": 1771742647999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Уиллоуби"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Willoughby"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #76",
+  "description": "Уньшиу. Классический японский сорт, крупный плод, немного плоской формы, отличный баланс кислоты и сахара.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/75.jpg",
+  "edition": 76,
+  "date": 1771742647999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Уньшиу"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Unshiu"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #77",
+  "description": "Хироко. Небольшие плоды светло-желтого цвета, очень мягкие и нежные на вкус.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/76.jpg",
+  "edition": 77,
+  "date": 1771742648999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Хироко"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Hiruko"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #78",
+  "description": "Дункан. Желтоватые крупные плоды, довольно толстая кожура, освежающе-кисловатый вкус.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/77.jpg",
+  "edition": 78,
+  "date": 1771742648999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Дункан"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Duncan"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #79",
+  "description": "Кимукатсу. Компактные, яркие плоды с легкой терпкостью и приятной сладостью.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/78.jpg",
+  "edition": 79,
+  "date": 1771742649999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Кимукатсу"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Kimukatsu"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #80",
+  "description": "Яманаси. Мелкие, компактные плоды темно-оранжевого цвета, отличные кислотно-сладкие нотки.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/79.jpg",
+  "edition": 80,
+  "date": 1771742649999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Яманаси"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Yamanashi"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #81",
+  "description": "Фрумоаса Алба. Светлые плоды с выраженным ароматом и мягким вкусом.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/80.jpg",
+  "edition": 81,
+  "date": 1771742649999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Фрумоаса Алба"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Frumoasa Albă"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #82",
+  "description": "Форелла. Темно-оранжевый оттенок, мелкие семена, высокий уровень сока.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/81.jpg",
+  "edition": 82,
+  "date": 1771742650999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Форелла"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Fornello"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #83",
+  "description": "Мадлен Ор. Обладает сильным запахом апельсина, тонкая кожица, приятный вкус.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/82.jpg",
+  "edition": 83,
+  "date": 1771742650999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Мадлен Ор"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Madeline Or"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #84",
+  "description": "Шэдлок. Слегка удлиненные плоды, золотисто-оранжевые, умеренной сладости.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/83.jpg",
+  "edition": 84,
+  "date": 1771742651999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Шэдлок"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Shadlock"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #85",
+  "description": "Роугредин. Ярко-оранжевые плоды, тонкий слой цедры, слегка кислый вкус.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/84.jpg",
+  "edition": 85,
+  "date": 1771742651999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Роугредин"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Rougredin"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #86",
+  "description": "Нэвил. Золотистые фрукты с небольшим количеством косточек, сильный аромат.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/85.jpg",
+  "edition": 86,
+  "date": 1771742651999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Нэвил"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Neville"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #87",
+  "description": "Салюс. Высокое содержание витаминов, тонкие стенки долек, мягкая структура мякоти.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/86.jpg",
+  "edition": 87,
+  "date": 1771742652999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Салюс"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Salus"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #88",
+  "description": "Робелле. Фрукты средней величины, покрытые блестящей кожей, отлично переносят транспортировку.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/87.jpg",
+  "edition": 88,
+  "date": 1771742652999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Робелле"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Robelle"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #89",
+  "description": "Бастия. Легкость очистки, высокое содержание сахаров, оптимален для потребления свежими.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/88.jpg",
+  "edition": 89,
+  "date": 1771742653999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Бастия"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Bastia"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #90",
+  "description": "Жанетта. Выраженно-круглая форма плода, привлекательная внешность, легкая чистота.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/89.jpg",
+  "edition": 90,
+  "date": 1771742653999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Жанетта"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Janette"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #91",
+  "description": "Валенсийский. Хрустящие дольки, среднее количество косточек, обладает ярким оранжевым цветом.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/90.jpg",
+  "edition": 91,
+  "date": 1771742654999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Валенсийский"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Valencia"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #92",
+  "description": "Джулиус. Относительно крупный размер, сильная ароматичность, приятное послевкусие.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/91.jpg",
+  "edition": 92,
+  "date": 1771742654999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Джулиус"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Julius"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #93",
+  "description": "Муркотт. Красивые оранжевые плоды, средняя плотность кожуры, вкусный и сбалансированный фрукт.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/92.jpg",
+  "edition": 93,
+  "date": 1771742654999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Муркотт"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Murcott"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #94",
+  "description": "Авалон. Хорошее сочетание сладости и легкости аромата, относительно устойчив к повреждениям.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/93.jpg",
+  "edition": 94,
+  "date": 1771742655999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Авалон"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Avalon"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #95",
+  "description": "Флориан. Приятный запах, мягкий вкус, небольшой размер плода.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/94.jpg",
+  "edition": 95,
+  "date": 1771742655999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Флориан"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Florian"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #96",
+  "description": "Миннеола. Эти гибридные мандарины обладают уникальным внешним видом, вытянутые верхушки, ярко-оранжевая оболочка, отличаются приятным мускусным привкусом.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/95.jpg",
+  "edition": 96,
+  "date": 1771742656999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Миннеола"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Minneola"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #97",
+  "description": "Кингстон. Большие размеры плодов, твердость кожицы, содержат большое количество витамина C, кисло-сладкий профиль.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/96.jpg",
+  "edition": 97,
+  "date": 1771742656999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Кингстон"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Kingston"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #98",
+  "description": "Коэнши. Сочные, миниатюрные японские мандарины, обладающие плотной мякотью и необычным кислым вкусом.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/97.jpg",
+  "edition": 98,
+  "date": 1771742657999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Коэнши"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Kohenshi"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #99",
+  "description": "Санга. Эксклюзивный продукт Японии, круглый и мелкий плод, нежно-сладкий, ароматный и простой в очистке.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/98.jpg",
+  "edition": 99,
+  "date": 1771742657999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Санга"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Sanga"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #100",
+  "description": "Юнанго. Плоды необычной формы, округлые, крупная мякоть, сладость умеренная, минимальное количество косточек.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/99.jpg",
+  "edition": 100,
+  "date": 1771742658999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Юнанго"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Yunango"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #101",
+  "description": "Тамаки. Один из элитных японских сортов, очень ароматные, мясистые и сахарные, подходят для премиальных рынков.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/100.jpg",
+  "edition": 101,
+  "date": 1771742658999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Тамаки"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Tamaki"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #102",
+  "description": "Монреале. Продукт южной Италии, большие размеры, плотная кожа, характерный острый вкус, отличный источник антиоксидантов.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/101.jpg",
+  "edition": 102,
+  "date": 1771742659999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Монреале"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Monreale"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #103",
+  "description": "Тарокко. Родиной является Италия, отличается уникальной окраской красных прожилок, очень полезен благодаря высокому содержанию ликопина.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/102.jpg",
+  "edition": 103,
+  "date": 1771742659999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Тарокко"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Tarocco"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #104",
+  "description": "Карризос. Испанский сорт, плоды небольшого размера, плотная кожица, высокие показатели устойчивости к болезням.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/103.jpg",
+  "edition": 104,
+  "date": 1771742659999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Карризос"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Carrizos"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #105",
+  "description": "Рондинелло. Известен своей мелкой зернистостью, минимально выраженными семенами, восхитительный вкус, распространенный в Греции и Турции.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/104.jpg",
+  "edition": 105,
+  "date": 1771742660999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Рондинелло"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Rondinello"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #106",
+  "description": "Рубелл. Французская линия, узнаваемый красно-коричневый окрас, специфичный вкус с кислыми нотками.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/105.jpg",
+  "edition": 106,
+  "date": 1771742660999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Рубелл"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Rubell"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #107",
+  "description": "Баладор. Традиционный французский сорт, характеризуется высоким содержанием натуральных сахаров, низкокалорийный.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/106.jpg",
+  "edition": 107,
+  "date": 1771742661999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Баладор"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Balador"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #108",
+  "description": "Алейгри. Имеют уникальный аромат, обладают высокими показателями витаминов B и C, распространены в северной Франции.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/107.jpg",
+  "edition": 108,
+  "date": 1771742661999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Алейгри"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Alegri"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #109",
+  "description": "Кармело. Австралийский сорт, упругие, крепкие плоды, длительное хранение, прекрасная транспортабельность.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/108.jpg",
+  "edition": 109,
+  "date": 1771742662999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Кармело"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Carmelo"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #110",
+  "description": "Эспана. Большой объем плодов, умеренно твердые оболочки, хороший баланс кислоты и сладости.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/109.jpg",
+  "edition": 110,
+  "date": 1771742662999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Эспана"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Espana"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #111",
+  "description": "Редрич. Американский сорт, отличающийся яркими красными пятнами на поверхности, великолепно подходит для приготовления соков.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/110.jpg",
+  "edition": 111,
+  "date": 1771742662999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Редрич"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Redrich"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #112",
+  "description": "Норборн. Долгоживущие плоды, стойкие к неблагоприятным условиям хранения, традиционно выращиваются в Европе.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/111.jpg",
+  "edition": 112,
+  "date": 1771742663999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Норборн"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Norborn"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #113",
+  "description": "Кингстон. Подходит для длительного хранения, массивные плоды, хорошая стойкость к механическим повреждениям, прекрасны в свежем виде.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/112.jpg",
+  "edition": 113,
+  "date": 1771742663999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Кингстон"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Kingston"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #114",
+  "description": "Амулет. Аккуратные круглые плоды, средне-твердая кожура, легкий сладкий вкус.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/113.jpg",
+  "edition": 114,
+  "date": 1771742664999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Амулет"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Amlet"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #115",
+  "description": "Дельфин. Прямой цилиндрической формы, гладкая поверхность, утончённый аромат.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/114.jpg",
+  "edition": 115,
+  "date": 1771742664999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Дельфин"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Delphin"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #116",
+  "description": "Глима. Светлого оттенка кожура, богатая клетчаткой, низкая калорийность.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/115.jpg",
+  "edition": 116,
+  "date": 1771742665999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Глима"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Glime"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #117",
+  "description": "Кавалларе. Приличный диаметр плода, легко очищается, высоко ценится за сочность.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/116.jpg",
+  "edition": 117,
+  "date": 1771742665999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Кавалларе"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Cavallore"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #118",
+  "description": "Камилла. Широкий спектр вкусов, приятно хрустит, имеет высокую степень сочности.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/117.jpg",
+  "edition": 118,
+  "date": 1771742665999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Камилла"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Camilla"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #119",
+  "description": "Хассаку. Крупноплодный японский мандарин с толстой кожурой и нежной мякотью, сладкий с легким мускусным привкусом.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/118.jpg",
+  "edition": 119,
+  "date": 1771742666999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Хассаку"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Hassaku"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #120",
+  "description": "Кимбо. Филиппинский сорт, сладкий и сочный, отличается тонкой кожицей и приятным запахом.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/119.jpg",
+  "edition": 120,
+  "date": 1771742666999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Кимбо"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Kimbo"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #121",
+  "description": "Оранжелла. Американская гибридная разновидность, созданная путем скрещивания апельсина и мандарина, обладает яркой оранжевой окраской и сладким вкусом.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/120.jpg",
+  "edition": 121,
+  "date": 1771742667999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Оранжелла"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Orangegella"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #122",
+  "description": "Пинколина. Кубинская порода, известная своим большим размером, крупными дольками и плотной кожей, отлично подходит для хранения.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/121.jpg",
+  "edition": 122,
+  "date": 1771742667999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Пинколина"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Pincolina"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #123",
+  "description": "Клементин Форте. Обладает повышенной урожайностью и устойчивостью к болезням, крупный и мясистый плод с легко отделяемой шкуркой.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/122.jpg",
+  "edition": 123,
+  "date": 1771742668999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Клементин Форте"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Clementine Forte"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #124",
+  "description": "Мурукутту. Индийская местная порода, сладкая и легкая, с тонкой гладкой кожурой.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/123.jpg",
+  "edition": 124,
+  "date": 1771742668999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Мурукутту"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Murukuttu"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #125",
+  "description": "Манго-Мандарине. Экспериментальная линия селекции, сочетает характеристики манго и мандарина, уникальные экзотические вкусы.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/124.jpg",
+  "edition": 125,
+  "date": 1771742669999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Манго-Мандарине"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Mango-Mandarin Hybrid"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #126",
+  "description": "Мишима. Ещё одна японская культура, компактная форма дерева и плоды среднего размера, идеально подходят для небольших садов.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/125.jpg",
+  "edition": 126,
+  "date": 1771742669999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Мишима"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Mishima"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #127",
+  "description": "Малакофф. Английский гибрид, созданный специально для холодного климата, средней величины фрукты с сильным ароматом.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/126.jpg",
+  "edition": 127,
+  "date": 1771742669999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Малакофф"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Malakoff"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #128",
+  "description": "Цитрус Витория. Южноафриканский сорт, отличается высокими урожаями и долгим периодом хранения, крупные золотисто-желтые мандарины.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/127.jpg",
+  "edition": 128,
+  "date": 1771742670999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Цитрус Витория"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Citrus Victoria"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #129",
+  "description": "Тангор Луна. Гибрид апельсина и мандарина, плотная кожа, мелкие косточки, отличный баланс кислоты и сахара.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/128.jpg",
+  "edition": 129,
+  "date": 1771742670999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Тангор Луна"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Tangor Luna"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #130",
+  "description": "Трескуче. Испанская порода, компактные деревца с маленькими, но сладкими плодами, востребованы для домашних хозяйств.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/129.jpg",
+  "edition": 130,
+  "date": 1771742671999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Трескуче"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Tresecue"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #131",
+  "description": "Ред Лав Оранж. Современный американский гибрид, ярко-красные снаружи и внутри, необычно красивый внешний вид и приятный кисло-сладкий вкус.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/130.jpg",
+  "edition": 131,
+  "date": 1771742671999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Ред Лав Оранж"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Red Love Orange"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #132",
+  "description": "Аззамир. Русский сорт, выведенный для условий Сибири и Урала, зимостойкий и неприхотливый, пригоден для выращивания даже в суровом климате.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/131.jpg",
+  "edition": 132,
+  "date": 1771742671999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Аззамир"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Azamir"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #133",
+  "description": "Инжиринка. Российский гибрид, морозоустойчивый, формирует небольшие круглые плоды с тонким слоем кожи и небольшим количеством семян.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/132.jpg",
+  "edition": 133,
+  "date": 1771742672999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Инжиринка"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Inzhirinka"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #134",
+  "description": "Орландо. Американский вариант, крупная округлая форма плода, яркий апельсиновый оттенок, приятная сладость и немного кислинки.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/133.jpg",
+  "edition": 134,
+  "date": 1771742672999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Орландо"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Orlando"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #135",
+  "description": "Аликанте. Испанские местные культуры, небольшая по размеру, высокая сахаристость, практически без косточек.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/134.jpg",
+  "edition": 135,
+  "date": 1771742673999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Аликанте"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Alicante"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #136",
+  "description": "Кикуката. Малазийский местный сорт, большие плоды с приятной мягкой текстурой и сильной сладостью.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/135.jpg",
+  "edition": 136,
+  "date": 1771742673999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Кикуката"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Kikukata"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #137",
+  "description": "Каттанио. Италия, регион Абруццо, маленькая, но крайне ароматная разновидность с богатым вкусом и низким уровнем кислотности.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/136.jpg",
+  "edition": 137,
+  "date": 1771742673999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Каттанио"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Catteneo"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #138",
+  "description": "Хайва. Египетский традиционный сорт, уникальный горьковато-сладкий вкус, маленькие зерна, низкая калорийность.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/137.jpg",
+  "edition": 138,
+  "date": 1771742674999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Хайва"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Haywa"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "$HMDR #139",
+  "description": "Флорида Блоссом. Созданный в США, гигантские плоды, идеальное сочетание сладкого и слегка кислого, отличная транспортабельность.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/138.jpg",
+  "edition": 139,
+  "date": 1771742674999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Флорида Блоссом"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Florida Blossom"
     }
   ],
   "buttons": [

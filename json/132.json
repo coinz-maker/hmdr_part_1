@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #133",
+  "description": "Инжиринка. Российский гибрид, морозоустойчивый, формирует небольшие круглые плоды с тонким слоем кожи и небольшим количеством семян.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/132.jpg",
+  "edition": 133,
+  "date": 1771742672999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Инжиринка"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Inzhirinka"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

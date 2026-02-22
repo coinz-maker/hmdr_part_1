@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #96",
+  "description": "Миннеола. Эти гибридные мандарины обладают уникальным внешним видом, вытянутые верхушки, ярко-оранжевая оболочка, отличаются приятным мускусным привкусом.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/95.jpg",
+  "edition": 96,
+  "date": 1771742656999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Миннеола"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Minneola"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

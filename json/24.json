@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #25",
+  "description": "Магараджи. Генетическая смесь бразильского и африканского корней, стал настоящим открытием современной эпохи.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/24.jpg",
+  "edition": 25,
+  "date": 1771742624999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "1,5%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Магараджи"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Maharajah"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

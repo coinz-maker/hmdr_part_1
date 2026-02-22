@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #132",
+  "description": "Аззамир. Русский сорт, выведенный для условий Сибири и Урала, зимостойкий и неприхотливый, пригоден для выращивания даже в суровом климате.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/131.jpg",
+  "edition": 132,
+  "date": 1771742671999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Аззамир"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Azamir"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

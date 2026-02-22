@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #71",
+  "description": "Клементин. Маленькие плоды ярко-оранжевого цвета, сладкого вкуса, почти без косточек, легко очищаются.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/70.jpg",
+  "edition": 71,
+  "date": 1771742645999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Клементин"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Clementine"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}

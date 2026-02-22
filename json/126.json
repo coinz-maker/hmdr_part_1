@@ -1,0 +1,32 @@
+{
+  "name": "$HMDR #127",
+  "description": "Малакофф. Английский гибрид, созданный специально для холодного климата, средней величины фрукты с сильным ароматом.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/hmdr_part_1/refs/heads/main/imgs/126.jpg",
+  "edition": 127,
+  "date": 1771742669999,
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Yield",
+      "value": "0,25%"
+    },
+    {
+      "trait_type": "name",
+      "value": "Малакофф"
+    },
+    {
+      "trait_type": "name_en",
+      "value": "Malakoff"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Чат",
+        "uri": "https://t.me/+7Y7lDo3wBLtlYTg6"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}
